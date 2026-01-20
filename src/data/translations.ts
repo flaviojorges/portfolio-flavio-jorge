@@ -422,11 +422,6 @@ export const translations = {
     en: 'Sorry, the project you are looking for does not exist or has been removed.',
     es: 'Lo sentimos, el proyecto que buscas no existe o ha sido eliminado.'
   },
-  backToHome: {
-    pt: 'Voltar ao início',
-    en: 'Back to home',
-    es: 'Volver al inicio'
-  },
   breadcrumbHome: {
     pt: 'Início',
     en: 'Home',
