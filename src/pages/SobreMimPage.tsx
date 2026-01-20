@@ -167,35 +167,35 @@ export function SobreMimPage() {
       organization: 'Amazon Web Services Training and Certification',
       date: 'Emitida 23 de nov. de 2025',
       image: awsBadge,
-      link: 'https://www.credly.com/badges/47e736ea-899c-40b2-b011-377d0830cf1b/public_url'
+      link: 'https://www.credly.com/badges/47e736ea-899c-40b2-b011-377d0830cf1b/assets/_url'
     },
     { 
       name: 'Enterprise Design Thinking Practitioner',
       organization: 'IBM',
       date: 'Emitida 26 de mai. de 2025',
       image: ibmBadge,
-      link: 'https://www.credly.com/badges/88e27827-b0bf-4e3e-a022-604e3371f098/public_url'
+      link: 'https://www.credly.com/badges/88e27827-b0bf-4e3e-a022-604e3371f098/assets/_url'
     },
     { 
       name: 'Fundamentals of Predictive Project Management',
       organization: 'Project Management Institute',
       date: 'Emitida 26 de mai. de 2025',
       image: pmiBadge,
-      link: 'https://www.credly.com/badges/d782cd80-8e37-4543-83b4-07099e1f3d2d/public_url'
+      link: 'https://www.credly.com/badges/d782cd80-8e37-4543-83b4-07099e1f3d2d/assets/_url'
     },
     { 
       name: 'Product Discovery Certification',
       organization: 'Pendo',
       date: 'Emitida 3 de jun. de 2025',
       image: pendoBadge,
-      link: 'https://www.credly.com/badges/eef6edc7-4c66-4d22-bef8-67d1a8ee9dc5/public_url'
+      link: 'https://www.credly.com/badges/eef6edc7-4c66-4d22-bef8-67d1a8ee9dc5/assets/_url'
     },
     { 
       name: 'Scrum Foundation Professional Certificate (SFPC)',
       organization: 'Certiprof',
       date: 'Emitida 10 de mai. de 2025',
       image: scrumBadge,
-      link: 'https://www.credly.com/badges/your-scrum-badge-id/public_url'
+      link: 'https://www.credly.com/badges/your-scrum-badge-id/assets/_url'
     },
     { 
       name: 'Product Led Growth',
